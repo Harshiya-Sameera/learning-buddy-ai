@@ -54,3 +54,28 @@
 └── package.json
 
 
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Harshiya-Sameera/learning-buddy-ai.git
+   cd learning-buddy-ai
+2. **Install dependencies**
+  npm install
+
+3. **Set up Firebase**
+  Create a project in Firebase.
+  Enable Email/Password Authentication.
+  Create a Firestore Database.
+  Replace config in firebase.js with your Firebase credentials.
+
+4. **Run the app**
+  npm start
+
+🌍 Deployment
+The app can be deployed using platforms like Vercel, Netlify, or Firebase Hosting.
+
+
+📅 Possible Future Enhancements
+Add leaderboard for quiz rankings
+Support for voice-based chatbot
+Add more quiz categories and difficulty levels
+
